@@ -18,13 +18,5 @@ Desktop View:
 
 ![image](https://github.com/VinayKhedkar/Spotify-Clone/assets/145246376/ff3fdd64-8bd6-4c6d-aed5-264aa8039823)
 
-Mobile View: 
-
-![image](https://github.com/VinayKhedkar/Spotify-Clone/assets/145246376/62b658b9-c7ab-4f18-b3b3-959ecfb5827e)
-
-# Link :
-https://spotify-clonyy.netlify.app/
-# Copyright
-© 2024 Vinay Khedkar. All rights reserved.
-
+# Spotify_Clone
 # Spotify_Clone
