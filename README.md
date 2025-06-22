@@ -12,11 +12,4 @@ Welcome to the Spotify Clone repository! This project is a web application built
 # Tech Stack
 Frontend: **React.js, Tailwind CSS**
 
-# Screenshots
-
-Desktop View:
-
-![image](https://github.com/VinayKhedkar/Spotify-Clone/assets/145246376/ff3fdd64-8bd6-4c6d-aed5-264aa8039823)
-
-# Spotify_Clone
 # Spotify_Clone
